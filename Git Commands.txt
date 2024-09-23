@@ -1,0 +1,19 @@
+﻿1. 12
+2. Mon Sep 23 09:48:38 2024 -0500
+3. git checkout --orphan temp-branch 
+4. git checkout --orphan temp-branch
+git checkout 06/01/2020 -- .        
+Ls
+git branch -D temp-branch 
+5. 0
+
+6. git log: Shows the commit history (messages, authors, dates).
+git status: Displays the state of the working directory and staging area.
+
+
+   7. Summarizes the commit history by author, showing the number of commits per author.
+   8. git log -- Main.java
+   9. git log --follow -- Main.java
+   10.   git log --grep="account"
+   11. git log --author="Author Name"
+   12. git log --author="Lauren" --since="2014-01-05" --until="2014-01-14"
